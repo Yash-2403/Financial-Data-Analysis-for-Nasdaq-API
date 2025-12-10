@@ -1,0 +1,1 @@
+This is a financial Dataset collected from the Nasdaq data link API, which includes stock prices, economic indicators, and all other necessary columns. With the help of requests, pandas, matplotlib and seaborn libraries retrieve and analyze the data
